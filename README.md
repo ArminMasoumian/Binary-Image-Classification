@@ -1,6 +1,6 @@
 # Binary Image Classification using Convolutional Neural Networks (CNNs)
 
-This repository contains an implementation of a binary image classification model using convolutional neural networks (CNNs) in PyTorch. The model is trained and evaluated on the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The task is to classify each image as either a cat or a dog.
+This repository contains an implementation of a binary image classification model using convolutional neural networks (CNNs) in PyTorch. The model is trained and evaluated on the <strong>CIFAR-10 <strong>dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The task is to classify each image as either a cat or a dog.
 
 ## Requirements
 
@@ -56,7 +56,7 @@ The model achieved an accuracy of 98.3% on the test set after training for 50 ep
 
 [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-PyTorch documentation
+[PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 
 ## License
 

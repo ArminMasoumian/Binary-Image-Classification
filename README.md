@@ -47,3 +47,16 @@ python train.py
 ```
 python evaluate.py
 ```
+
+##Results
+
+The model achieved an accuracy of 98.3% on the test set after training for 50 epochs. The training and validation curves are shown below:
+
+## References
+
+CIFAR-10 dataset
+PyTorch documentation
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

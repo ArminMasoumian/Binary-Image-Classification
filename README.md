@@ -62,4 +62,4 @@ The model achieved an accuracy of 98.3% on the test set after training for 50 ep
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ArminMasoumian/Binary-Image-Classification/blob/main/LICENSE) file for details.

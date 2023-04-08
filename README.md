@@ -5,7 +5,9 @@ This repository contains an implementation of a binary image classification mode
 ## Requirements
 
 Python 3.7 or higher
+
 PyTorch 1.9 or higher
+
 torchvision 0.10 or higher
 
 ## Usage

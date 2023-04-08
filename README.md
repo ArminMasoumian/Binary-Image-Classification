@@ -48,13 +48,14 @@ python train.py
 python evaluate.py
 ```
 
-##Results
+## Results
 
 The model achieved an accuracy of 98.3% on the test set after training for 50 epochs. The training and validation curves are shown below:
 
 ## References
 
-CIFAR-10 dataset
+[CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+
 PyTorch documentation
 
 ## License

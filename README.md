@@ -15,7 +15,7 @@ This repository contains an implementation of a binary image classification mode
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/binary-image-classification.git
+git clone https://github.com/ArminMasoumian/binary-image-classification.git
 ```
 
 2. Navigate to the cloned repository:

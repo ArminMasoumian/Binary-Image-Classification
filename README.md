@@ -52,7 +52,7 @@ python evaluate.py
 
 The model achieved an accuracy of 98.3% on the test set after training for 50 epochs. The training and validation curves are shown below:
 
-![](https://github.com/ArminMasoumian/Binary-Image-Classification/blob/main/Images/Results.png)
+![](https://github.com/ArminMasoumian/Binary-Image-Classification/blob/main/Images/Plot-of-the-CNN-models-accuracy-and-loss-on-training-and-validation-steps-considering.png)
 
 ## References
 
